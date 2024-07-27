@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "madurn-assignments-",
+    "slug": "snack-a4d0767f-35ca-4146-800f-4f2e8dcb4e2a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Mob. App Dev. Using React Native.\n\nAll Assignments in it ."
+  }
+}
